@@ -1,4 +1,4 @@
-%% RADAR IMAGING - HOMEWORK 1
+%% RADAR IMAGING
 %  Mykhaylo Kotsaba
 
 close all;
